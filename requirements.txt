@@ -8,3 +8,4 @@ streamlit-chat
 Pillow
 pytesseract
 faiss-cpu
+langchain-community
